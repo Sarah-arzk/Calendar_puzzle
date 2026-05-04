@@ -11,9 +11,7 @@ Le solveur utilise également le multithreading pour accélérer les calculs.
 
 ## Auteurs
 
-- AREZKI Sarah  
-- BAKOUR Sara  
-- AMMAR Ciline  
+- AREZKI Sarah 
 
 ---
 
